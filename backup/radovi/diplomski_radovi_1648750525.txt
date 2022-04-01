@@ -1,0 +1,109 @@
+INSERT INTO radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('', ' 						Tema za diplomski rad					', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije
+
+Mentor: Prof. dr. sc. Denis Pelin
+
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.)
+
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u programskom okruženju Typhoon HIL. Parametarske analize energetskog dijela pretavrača. Razvoj upravljačkog dijela pretvarača pomoću mikrokontrolera i vanjske upravljačke pločice. 							', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '53943536946')";
+INSERT INTO radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('623d96b5484cb', ' 						Tema za diplomski rad					', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije
+
+Mentor: Prof. dr. sc. Denis Pelin
+
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.)
+
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u programskom okruženju Typhoon HIL. Parametarske analize energetskog dijela pretavrača. Razvoj upravljačkog dijela pretvarača pomoću mikrokontrolera i vanjske upravljačke pločice. 							', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '53943536946')";
+INSERT INTO radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('623d96b76d7a3', ' 						Tema za diplomski rad					', 'Rad na temu &#8220; Web trgovina za prodaju sportske opreme zasnovana na sustavu personaliziranih preporuka &#8221; sumentorirat će prof.dr.sc. Goran Martinović (FERIT) i Ivan Matozan (Inchoo). 
+
+U teorijskom dijelu diplomskog rada potrebno je analizirati i opisati izazove i mogućnosti sustava web trgovine, te sustava stvaranja preporuka s naglaskom na primjenu u web trgovini. U radu treba uvažiti potrebu stvaranja korisničkog računa s postojećih platformi na kojima korisnik već ima račun, upravljanje narudžbama, popustima, programom vjernosti i nagrađivanja korisnika, obavješćivanja korisnika, specifičnosti prodaje sportske opreme i sportskih aktivnosti, potrebe za personaliziranim pristupom kupcu i sportu kojim se bavi, primjenu povećane razine sigurnosti korisnika, te načela lokalizacije. Na temelju navedenih zahtjeva i mogućnosti, treba predložiti model, arhitekturu i dizajn web trgovine za prodaju sportske opreme, te postupke višekriterijskog stvaranja personaliziranih preporuka zasnovanih na hibridnim pristupima. Navedeni web sustav treba programski ostvariti korištenjem prikladnih programskih tehnologija, jezika i razvojne okoline za agilni razvoj, te ga ispitati i analizirati za odgovarajuće sportove, profile korisnika, skupine proizvoda, scenarije korištenja i s gledišta korisničkog iskustva. 							', 'https://stup.ferit.hr/2021/01/21/tema-za-diplomski-rad/', '79343687407')";
+INSERT INTO radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('623d96b8e7b10', ' 						Tema za diplomski rad &#8211; API za aplikaciju za planiranje izleta					', 'U nastavku možete naći temu i popis tehnologija za izradu diplomskog rada uz naše mentorstvo. Nakon odabira teme, slobodno nas možete kontaktirati na  hr@factory.hr  kako biste dobili više informacija o vašoj suradnji s mentorom. 
+
+Sljedeća tema namijenjena je studentima diplomskog studija. Odabirom navedene teme, rad biste pisali pod mentorstvom našeg backend developera &#8211; Filipa Dumančića. 
+
+Zadatak rada je izraditi REST API za aplikaciju za planiranje izleta. Pomoću API-ja mora biti moguće izraditi mobilnu ili web aplikaciju.
+
+Predvidjeti tri korisnčika profila s obzirom na funkcionalnosti i pristup podacima: organizator, vodič, korisnik. Korisnik ima mogućnost pregleda i rezervacije izleta. Vodič je osoba zadužena za izlet i vidi samo vlastite izlete i vrijeme kada se održavaju te broj prijavljenih. Organizator vidi sve izlete, kreira nove i uređuje postojeće izlete, definira rutu i plan puta (vrijeme i atrakcije), dodjeljuje vodiča te se brine o rezervacijama. Potrebno je osmisliti sučelje mobilne ili web aplikacije. Još je potrebno napraviti bazu podataka za pohranu informacija. Za funcionalnosti mobilne ili web aplikacije potrebno je napraviti API.
+
+Tehnologija za izradu je skriptni jezik PHP i MVC obrazac Laravel.
+
+U radu je potrebno ukazati na korisnost ovakog proizvoda s organizacijskog  aspekta, te opisati korištene tehnologije pri izradi rada.
+
+Kao dodatak radu je potrebno dokumentirati API.
+
+(mentorica: prof.dr.sc. Dominika Crnjac Milić (FERIT); sumentori: izv.prof.dr.sc. Krešimir Nenadić (FERIT) i Filip Dumančić (Plava tvornica d.o.o.))
+
+&nbsp; 							', 'https://stup.ferit.hr/2020/02/06/tema-za-diplomski-rad-api-za-aplikaciju-za-planiranje-izleta/', '47726994562')";
+INSERT INTO radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('623d96ba433ba', ' 						Tema za diplomski rad &#8211; Informatičko-komunikacijske tehnologije u funkciji prodaje poljoprivrednih proizvoda					', 'U nastavku možete naći temu i popis tehnologija za izradu diplomskog rada uz naše mentorstvo. Nakon odabira teme, slobodno nas možete kontaktirati na  hr@factory.hr  kako biste dobili više informacija o vašoj suradnji s mentorom. 
+
+Sljedeća tema namijenjena je studentima diplomskog studija. Odabirom navedene teme, rad biste pisali pod mentorstvom našeg frontend developera &#8211; Alena Egredžije. 
+
+Zadatak ovog rada je napraviti analizu dosadašnjeg korištenja informatičko-komunikacijskih tehnologija u svrhu poboljšanja prodaje proizvoda malih poljoprivrednih proizvođača. Izraditi responzivnu Web aplikaciju putem koje bi mali proizvođači poljoprivrednih proizvoda mogli objaviti svoju trenutnu ponudu kupcima, te navesti način dostave na kućni prag ili osobno preuzimanje na nekoj adresi ponuđača, primjerice obiteljskog poljoprivrednog gospodarstva, trgovine ili sl.. Kupci bi lakše dolazili do svježeg voća i povrća, osobito do sezonskih proizvoda. Isto tako ovim putem bi se mogle ponuditi i prerađevine poljoprivrednih proizvoda iz domaće proizvodnje. Ova aplikacija bi bila oblik virtualne tržnice. Potrebno je napraviti bazu podataka za pohranu informacija te web sučelje.
+
+Tehnologija za izradu je skriptni jezik PHP i MVC obrazac Laravel (backend) te PHP templateing/Blade (frontend).
+
+ Potrebno je opisati korištene tehnologije potrebne za izradu i rad aplikacije.
+
+( mentorica: prof.dr.sc . Dominika Crnjac Milić (FERIT);  sumentori: izv.prof.dr.sc . Krešimir Nenadić (FERIT) i   Alen Egredžija (Plava tvornica d.o.o.) 							', 'https://stup.ferit.hr/2020/02/06/tema-za-diplomski-rad-informaticko-komunikacijske-tehnologije-u-funkciji-prodaje-poljoprivrednih-proizvoda/', '47726994562')";
+INSERT INTO radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('623d96bb9fb51', ' 						Teme za diplomske radove					', 'MENTOR: Luka Olvitz
+
+NASLOV: Dizajniranje flyback visoke učinkovitosti pretvarača za visoke napone
+
+OPIS: Potrebno je dizajnirati flyback konverter za rad na naponima od 500 do 750VDC s učinkovitosti preko 80%. Za proračune će biti osiguran kalkulator broja namota koji je potrebno testirati na napravljenom dizajnu. Nakon dizajna potrebno je napraviti tiskanu pločicu i izraditi sklop. Testiranje projektiranog sklopa i transformatora će biti rađeno u Rimac uredu u Osijeku. Optimiziranje rada sklopa dok se ne dobiju tražene karakteristike sklopa
+
+&nbsp;
+
+MENTOR: Ivan Kvolik
+
+NASLOV: Apstrakcija hardvera za STM32 mikrokontroler
+
+OPIS: Dizajnirati i implementirati Hardware abstracion layer(HAL) koji će omogućiti jednostavnoj
+ aplikaciji čitanje i pisanje jednog digitalnog porta(osam pinova 4 ulaz, 4 izlaz), dva analogna
+ ulaza i can sabirnice. Implementirati driverski sloj za mikrokontroler STM32F1 koji će HAL
+ koristiti za pristup resursima mikrokontrolera. Iznad HAL-a implementirati jednostavnu aplikaciju
+ koja će čitati i pisati digitalne pinove, te čitati stanja analognih pinova i ispisivati ih na CAN. Paralelno implementirati virtualne drivere koje će omogućiti rad HAL-a i aplikacije na windows
+ operativnom sustavu. Drivere implementirati pomoću WinSocket2 tehnologije. Virtualno okruženje
+ također treba sadržavati malu desktop aplikaciju koja omogućava postavljanje stanja virtualiziranih
+ ulaza/izlaza i komunikacijske sabirnice
+
+&nbsp;
+
+MENTOR: Kristijan Lolić
+
+NASLOV: LLC rezonantni pretvarač za rad sa niskim snagama I naponima
+
+OPIS: Provesti analizu na tržištu I pronaći gotove IC-ove za LLC rezonantni pretvarač I implementirati ih u dizajn LLC-a. LLC pretvarač treba raditi na ulaznim naponima od 9-16V I izlaznim od 44-48V. Ukupna snaga pretvarača ne treba biti veća od 150W. Potrebno je izračunati I dizajnirati transformator za LLC I cjeloviti rezonantni krug. Nakon toga treba dizajnirati elektroničku shemu sklopa I PCB za taj sklop. Poslje sklapanja pretvarača treba odraditi sve potrebne testove I mjerenja sustava I dati radne točke za različite struje I napona
+
+&nbsp;
+
+MENTOR: Kristijan Lolić
+
+NASLOV: Analiza aktivnog BMS-a za 5 baterijskih ćelija spojenih u seriju
+
+OPIS: Provesti analizu  gotove solucije za aktivne BMS-ove, navesti mane I dobre stavri aktivnog balansiranja. Pomoću razvojnog sustava Arduino osmisliti I adaptirati sustav za balansiranje baterija prema specifikacijama. Testirati sustav I dati radne točke za različite struje balansiranja 							', 'https://stup.ferit.hr/2020/02/04/teme-za-diplomske-radove/', '53943536946')";
+INSERT INTO radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('623d96bcdc8aa', ' 						Strategije za smanjenje gubitaka u distributivnoj mreži 35 kV DP Elektroslavonije Osijek					', 'Odobrenje teme diplomskog rada od strane HEP ODS-a (Elektroslavonije).
+
+Mentor na temi diplomskog rada: doc. dr. sc. Krešimir Fekete, a sumentor: dr. sc. Slaven Kaluđer.
+
+&nbsp;
+
+Naslov teme: Strategije za smanjenje gubitaka u distributivnoj mreži 35 kV DP Elektroslavonije Osijek
+
+Sažetak: Potrebno je opisati osnovne pojmove vezane za tehničke i netehničke gubitke.
+
+Navesti i objasniti poznate strategije za smanjenje tehničkih gubitaka.
+
+Opisati strategiju optimalnog uklopnog stanja i strategiju zamjene postojećih transformatora s transformatorima manjeg kapaciteta.
+
+Provesti analize za obje strategije na distributivnoj mreži 35 kV DP Elektroslavonije Osijek te usporediti dobivene rezultate.
+
+Navesti prednosti, nedostatke navedenih strategija i opravdanost operativne implementacije. Analize provesti pomoću poznatih programa EasyPower,  Power World, SKM ili jednako vrijednim.
+
+U zaključnim razmatranjima navesti buduće smjernice i trendove u smanjenju gubitaka.
+
+&nbsp; 							', 'https://stup.ferit.hr/2020/01/31/strategije-za-smanjenje-gubitaka-u-distributivnoj-mrezi-35-kv-dp-elektroslavonije-osijek/', '9549425995201')";
